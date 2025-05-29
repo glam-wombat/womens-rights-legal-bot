@@ -1,0 +1,89 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - thank
+  - affirm
+  - deny
+  - ask_law_info
+  - ask_rights
+  - ask_procedure
+  - ask_documents
+  - report_emergency
+  - ask_contacts
+  - change_language
+
+entities:
+  - law_type
+  - case_type
+  - procedure_type
+  - language
+
+slots:
+  law_type:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: law_type
+  case_type:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: case_type
+  procedure_type:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: procedure_type
+  language:
+    type: text
+    influence_conversation: true
+    initial_value: "English"
+    mappings:
+    - type: from_entity
+      entity: language
+
+responses:
+  utter_greet:
+  - text: "Hello! I'm your Women's Rights Legal Assistant. How can I help you today?"
+
+  utter_goodbye:
+  - text: "Goodbye. If you need legal assistance in the future, I'm here to help."
+
+  utter_thank:
+  - text: "You're welcome! Is there anything else I can help you with?"
+
+  utter_ask_law_type:
+  - text: "What specific law or legal issue would you like information about? For example, domestic violence, sexual harassment at workplace, dowry, etc."
+
+  utter_ask_case_type:
+  - text: "What type of case are you inquiring about? For example, domestic violence, sexual harassment, dowry harassment, divorce, or maintenance."
+
+  utter_ask_procedure_type:
+  - text: "What legal procedure would you like to know about? For example, filing an FIR, filing a domestic violence complaint, or filing a sexual harassment complaint."
+
+  utter_ask_language:
+  - text: "In which language would you prefer to receive information? I support English, Hindi, Bengali, Telugu, Marathi, Tamil, Urdu, Gujarati, Kannada, and Odia."
+
+  utter_default:
+  - text: "I'm sorry, I didn't understand that. Could you please rephrase your question?"
+
+  utter_disclaimer:
+  - text: "Disclaimer: This information is provided for general guidance only and is not legal advice. Please consult with a qualified legal professional for specific legal matters."
+
+actions:
+  - action_provide_law_info
+  - action_provide_rights
+  - action_provide_procedure
+  - action_provide_documents
+  - action_handle_emergency
+  - action_provide_contacts
+  - action_change_language
+
+session_config:
+  session_expiration_time: 60  # minutes
+  carry_over_slots_to_new_session: true

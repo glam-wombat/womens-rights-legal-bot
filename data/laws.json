@@ -1,0 +1,314 @@
+{
+  "laws": [
+    {
+      "title": "Protection of Women from Domestic Violence Act 2005",
+      "keywords": ["domestic violence", "domestic abuse", "physical abuse", "mental abuse", "verbal abuse", "emotional abuse", "economic abuse", "sexual abuse", "harassment", "home", "husband", "partner", "in-laws"],
+      "summary": "The Protection of Women from Domestic Violence Act 2005 is a comprehensive legislation designed to protect women from domestic violence. It provides for immediate and emergency relief to women facing domestic violence, including protection orders, residence orders, monetary relief, custody orders, and compensation orders.",
+      "rights": [
+        "Right to reside in the shared household under Section 17",
+        "Right to protection orders against the abuser under Section 18",
+        "Right to residence orders under Section 19",
+        "Right to monetary relief under Section 20",
+        "Right to custody orders for children under Section 21",
+        "Right to compensation orders under Section 22",
+        "Right to file a complaint with a Protection Officer, police officer, or Magistrate"
+      ],
+      "sections": [
+        {
+          "number": "18",
+          "title": "Protection Orders",
+          "content": "The Magistrate may, after giving the aggrieved person and the respondent an opportunity of being heard and on being prima facie satisfied that domestic violence has taken place or is likely to take place, pass a protection order in favour of the aggrieved person and prohibit the respondent from committing any act of domestic violence, aiding or abetting in the commission of acts of domestic violence, entering the place of employment of the aggrieved person, attempting to communicate with the aggrieved person, alienating any assets, operating bank accounts, etc."
+        },
+        {
+          "number": "19",
+          "title": "Residence Orders",
+          "content": "The Magistrate may, on being satisfied that domestic violence has taken place, pass a residence order restraining the respondent from dispossessing or disturbing the possession of the aggrieved person from the shared household, directing the respondent to remove himself from the shared household, restraining the respondent from entering any portion of the shared household in which the aggrieved person resides, etc."
+        },
+        {
+          "number": "20",
+          "title": "Monetary Relief",
+          "content": "The Magistrate may direct the respondent to pay monetary relief to meet the expenses incurred and losses suffered by the aggrieved person and any child of the aggrieved person as a result of the domestic violence."
+        }
+      ],
+      "procedures": [
+        {
+          "title": "Filing a Complaint",
+          "steps": [
+            "Approach a Protection Officer, police officer, or Magistrate",
+            "File a Domestic Incident Report (DIR)",
+            "The Protection Officer will forward the DIR to the Magistrate",
+            "The Magistrate will fix a hearing date",
+            "Both parties will be heard",
+            "The Magistrate will pass appropriate orders"
+          ]
+        }
+      ],
+      "documents_required": [
+        "Domestic Incident Report (DIR)",
+        "Proof of identity (Aadhaar card, voter ID, passport, etc.)",
+        "Proof of residence (rent agreement, electricity bill, etc.)",
+        "Photographs of injuries (if any)",
+        "Medical reports (if any)",
+        "Copy of FIR (if filed)"
+      ],
+      "emergency_contacts": [
+        "National Commission for Women: 011-26942369, 26944754",
+        "Women Helpline (All India): 1091",
+        "Women Helpline (Domestic Abuse): 181",
+        "Police: 100"
+      ],
+      "timestamp": "2023-05-29",
+      "source": "http://legislative.gov.in/sites/default/files/A2005-43.pdf"
+    },
+    {
+      "title": "Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act 2013",
+      "keywords": ["sexual harassment", "workplace", "office", "work", "job", "employment", "unwelcome", "hostile", "humiliating", "intimidating", "ICC", "internal complaints committee", "LCC", "local complaints committee"],
+      "summary": "The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act 2013 is a legislative act that aims to provide protection against sexual harassment of women at workplace and for the prevention and redressal of complaints of sexual harassment. The Act defines sexual harassment, lays down the procedures for a complaint and inquiry, and the action to be taken.",
+      "rights": [
+        "Right to a safe working environment free from sexual harassment",
+        "Right to file a complaint with the Internal Complaints Committee (ICC) or Local Complaints Committee (LCC)",
+        "Right to request for transfer of the respondent or herself to a different workplace",
+        "Right to request for leave up to 3 months",
+        "Right to confidentiality under Section 16",
+        "Right to protection from retaliation",
+        "Right to conciliation and settlement"
+      ],
+      "sections": [
+        {
+          "number": "4",
+          "title": "Constitution of Internal Complaints Committee",
+          "content": "Every employer of a workplace shall, by an order in writing, constitute a Committee to be known as the 'Internal Complaints Committee'. The Internal Complaints Committee shall consist of a Presiding Officer, not less than two members from amongst employees preferably committed to the cause of women or who have had experience in social work or have legal knowledge, and one member from amongst non-governmental organisations or associations committed to the cause of women or a person familiar with the issues relating to sexual harassment."
+        },
+        {
+          "number": "9",
+          "title": "Complaint of Sexual Harassment",
+          "content": "Any aggrieved woman may make, in writing, a complaint of sexual harassment at workplace to the Internal Committee if so constituted, or the Local Committee, in case it is not so constituted, within a period of three months from the date of incident and in case of a series of incidents, within a period of three months from the date of last incident."
+        },
+        {
+          "number": "13",
+          "title": "Inquiry Report",
+          "content": "On the completion of an inquiry under this Act, the Internal Committee or the Local Committee, as the case may be, shall provide a report of its findings to the employer, or as the case may be, the District Officer within a period of ten days from the date of completion of the inquiry and such report be made available to the concerned parties."
+        }
+      ],
+      "procedures": [
+        {
+          "title": "Filing a Complaint",
+          "steps": [
+            "Submit a written complaint to the Internal Complaints Committee (ICC) or Local Complaints Committee (LCC) within 3 months of the incident",
+            "The ICC/LCC will send a copy of the complaint to the respondent within 7 days",
+            "The respondent must file a reply within 10 days",
+            "The ICC/LCC may attempt conciliation if requested by the complainant",
+            "If conciliation fails or is not requested, the ICC/LCC will conduct an inquiry",
+            "The inquiry must be completed within 90 days",
+            "The ICC/LCC will submit its report to the employer/District Officer within 10 days of completing the inquiry",
+            "The employer/District Officer must act on the recommendations within 60 days"
+          ]
+        }
+      ],
+      "documents_required": [
+        "Written complaint",
+        "Proof of incident (emails, messages, recordings, etc. if available)",
+        "Names and contact details of witnesses (if any)",
+        "Any other relevant documents or evidence"
+      ],
+      "emergency_contacts": [
+        "National Commission for Women: 011-26942369, 26944754",
+        "Women Helpline (All India): 1091",
+        "She-Box (Online Complaint System): http://shebox.nic.in/",
+        "Police: 100"
+      ],
+      "timestamp": "2023-05-29",
+      "source": "https://legislative.gov.in/sites/default/files/A2013-14.pdf"
+    },
+    {
+      "title": "Dowry Prohibition Act 1961",
+      "keywords": ["dowry", "marriage", "bride", "groom", "gifts", "presents", "property", "valuable security", "agreement", "demand"],
+      "summary": "The Dowry Prohibition Act 1961 prohibits the giving or taking of dowry. Dowry is defined as any property or valuable security given or agreed to be given either directly or indirectly by one party to a marriage to the other party to the marriage or by the parents of either party to a marriage or by any other person, to either party to the marriage or to any other person, at or before or any time after the marriage in connection with the marriage of the said parties.",
+      "rights": [
+        "Right to protection against dowry demands",
+        "Right to file a complaint against anyone demanding dowry",
+        "Right to maintenance and support without dowry"
+      ],
+      "sections": [
+        {
+          "number": "3",
+          "title": "Penalty for giving or taking dowry",
+          "content": "If any person, after the commencement of this Act, gives or takes or abets the giving or taking of dowry, he shall be punishable with imprisonment for a term which shall not be less than five years, and with fine which shall not be less than fifteen thousand rupees or the amount of the value of such dowry, whichever is more."
+        },
+        {
+          "number": "4",
+          "title": "Penalty for demanding dowry",
+          "content": "If any person demands, directly or indirectly, from the parents or other relatives or guardian of a bride or bridegroom, as the case may be, any dowry, he shall be punishable with imprisonment for a term which shall not be less than six months, but which may extend to two years and with fine which may extend to ten thousand rupees."
+        },
+        {
+          "number": "6",
+          "title": "Dowry to be for the benefit of the wife or her heirs",
+          "content": "Where any dowry is received by any person other than the woman in connection with whose marriage it is given, that person shall transfer it to the woman within the period specified in sub-section (2). If the dowry was received before marriage, it shall be transferred within three months after the date of marriage. If the dowry was received at the time of or after the marriage, it shall be transferred within three months after the date of its receipt. If the dowry was received when the woman was a minor, it shall be transferred within three months after she has attained the age of eighteen years."
+        }
+      ],
+      "procedures": [
+        {
+          "title": "Filing a Complaint",
+          "steps": [
+            "Approach the nearest police station",
+            "File an FIR under Section 3 or 4 of the Dowry Prohibition Act",
+            "The police will investigate the complaint",
+            "If evidence is found, a chargesheet will be filed in court",
+            "The court will conduct a trial",
+            "If found guilty, the accused will be punished as per the provisions of the Act"
+          ]
+        }
+      ],
+      "documents_required": [
+        "Written complaint",
+        "Proof of marriage (marriage certificate, photographs, etc.)",
+        "Evidence of dowry demand (letters, recordings, etc. if available)",
+        "Names and contact details of witnesses (if any)",
+        "Any other relevant documents or evidence"
+      ],
+      "emergency_contacts": [
+        "National Commission for Women: 011-26942369, 26944754",
+        "Women Helpline (All India): 1091",
+        "Women Helpline (Domestic Abuse): 181",
+        "Police: 100"
+      ],
+      "timestamp": "2023-05-29",
+      "source": "https://legislative.gov.in/sites/default/files/A1961-28.pdf"
+    }
+  ],
+  "emergency_contacts": [
+    {
+      "name": "National Commission for Women",
+      "number": "011-26942369, 26944754",
+      "description": "The National Commission for Women is a statutory body established under the National Commission for Women Act, 1990. It safeguards the rights and interests of women in India."
+    },
+    {
+      "name": "Women Helpline (All India)",
+      "number": "1091",
+      "description": "A 24/7 helpline for women in distress across India."
+    },
+    {
+      "name": "Women Helpline (Domestic Abuse)",
+      "number": "181",
+      "description": "A 24/7 helpline specifically for women facing domestic abuse."
+    },
+    {
+      "name": "Police",
+      "number": "100",
+      "description": "Emergency police helpline."
+    },
+    {
+      "name": "She-Box (Online Complaint System)",
+      "number": "http://shebox.nic.in/",
+      "description": "An online portal to file complaints of sexual harassment at workplace."
+    }
+  ],
+  "document_checklists": [
+    {
+      "case_type": "Domestic Violence",
+      "documents": [
+        "Domestic Incident Report (DIR)",
+        "Proof of identity (Aadhaar card, voter ID, passport, etc.)",
+        "Proof of residence (rent agreement, electricity bill, etc.)",
+        "Photographs of injuries (if any)",
+        "Medical reports (if any)",
+        "Copy of FIR (if filed)"
+      ]
+    },
+    {
+      "case_type": "Sexual Harassment at Workplace",
+      "documents": [
+        "Written complaint",
+        "Proof of incident (emails, messages, recordings, etc. if available)",
+        "Names and contact details of witnesses (if any)",
+        "Any other relevant documents or evidence"
+      ]
+    },
+    {
+      "case_type": "Dowry Harassment",
+      "documents": [
+        "Written complaint",
+        "Proof of marriage (marriage certificate, photographs, etc.)",
+        "Evidence of dowry demand (letters, recordings, etc. if available)",
+        "Names and contact details of witnesses (if any)",
+        "Any other relevant documents or evidence"
+      ]
+    },
+    {
+      "case_type": "Divorce",
+      "documents": [
+        "Marriage certificate",
+        "Proof of identity (Aadhaar card, voter ID, passport, etc.)",
+        "Proof of residence (rent agreement, electricity bill, etc.)",
+        "Photographs of marriage",
+        "Income proof (salary slips, income tax returns, etc.)",
+        "Property details (if any)",
+        "Details of children (if any)"
+      ]
+    },
+    {
+      "case_type": "Maintenance",
+      "documents": [
+        "Marriage certificate",
+        "Proof of identity (Aadhaar card, voter ID, passport, etc.)",
+        "Proof of residence (rent agreement, electricity bill, etc.)",
+        "Income proof of spouse (salary slips, income tax returns, etc.)",
+        "Proof of expenses (rent receipts, school fees, medical bills, etc.)",
+        "Bank statements",
+        "Details of children (if any)"
+      ]
+    }
+  ],
+  "legal_procedures": [
+    {
+      "title": "Filing an FIR (First Information Report)",
+      "steps": [
+        "Visit the nearest police station",
+        "Narrate the incident to the officer in charge",
+        "The officer will record your statement in the FIR",
+        "Read the FIR carefully before signing it",
+        "Collect a copy of the FIR",
+        "Follow up with the investigating officer"
+      ],
+      "notes": "An FIR is a written document prepared by the police when they receive information about the commission of a cognizable offense. It is important to file an FIR as soon as possible after the incident."
+    },
+    {
+      "title": "Filing a Domestic Violence Complaint",
+      "steps": [
+        "Approach a Protection Officer, police officer, or Magistrate",
+        "File a Domestic Incident Report (DIR)",
+        "The Protection Officer will forward the DIR to the Magistrate",
+        "The Magistrate will fix a hearing date",
+        "Both parties will be heard",
+        "The Magistrate will pass appropriate orders"
+      ],
+      "notes": "Under the Protection of Women from Domestic Violence Act 2005, a woman can file a complaint against any adult male person who has been in a domestic relationship with her and has subjected her to domestic violence."
+    },
+    {
+      "title": "Filing a Sexual Harassment Complaint at Workplace",
+      "steps": [
+        "Submit a written complaint to the Internal Complaints Committee (ICC) or Local Complaints Committee (LCC) within 3 months of the incident",
+        "The ICC/LCC will send a copy of the complaint to the respondent within 7 days",
+        "The respondent must file a reply within 10 days",
+        "The ICC/LCC may attempt conciliation if requested by the complainant",
+        "If conciliation fails or is not requested, the ICC/LCC will conduct an inquiry",
+        "The inquiry must be completed within 90 days",
+        "The ICC/LCC will submit its report to the employer/District Officer within 10 days of completing the inquiry",
+        "The employer/District Officer must act on the recommendations within 60 days"
+      ],
+      "notes": "Under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act 2013, every workplace with 10 or more employees must have an Internal Complaints Committee (ICC) to address complaints of sexual harassment."
+    }
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali",
+    "Telugu",
+    "Marathi",
+    "Tamil",
+    "Urdu",
+    "Gujarati",
+    "Kannada",
+    "Odia"
+  ]
+}
