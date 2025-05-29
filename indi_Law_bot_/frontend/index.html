@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Women's Rights Legal Assistance Bot</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Women's Rights Legal Assistance Bot</h1>
+            <p>Free legal information for women in India</p>
+        </header>
+
+        <div class="language-selector">
+            <label for="language">Select Language:</label>
+            <select id="language">
+                <option value="English">English</option>
+                <option value="Hindi">हिंदी (Hindi)</option>
+                <option value="Bengali">বাংলা (Bengali)</option>
+                <option value="Telugu">తెలుగు (Telugu)</option>
+                <option value="Marathi">मराठी (Marathi)</option>
+                <option value="Tamil">தமிழ் (Tamil)</option>
+                <option value="Urdu">اردو (Urdu)</option>
+                <option value="Gujarati">ગુજરાતી (Gujarati)</option>
+                <option value="Kannada">ಕನ್ನಡ (Kannada)</option>
+                <option value="Odia">ଓଡ଼ିଆ (Odia)</option>
+            </select>
+        </div>
+
+        <div class="chat-container">
+            <div id="chat-messages">
+                <div class="message bot">
+                    <div class="message-content">
+                        <p>Hello! I'm your Women's Rights Legal Assistant. How can I help you today?</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="input-area">
+                <button id="voice-input-btn" title="Voice Input">
+                    <i class="fas fa-microphone"></i>
+                </button>
+                <input type="text" id="user-input" placeholder="Type your question here...">
+                <button id="send-btn" title="Send Message">
+                    <i class="fas fa-paper-plane"></i>
+                </button>
+            </div>
+        </div>
+
+        <div class="emergency-button">
+            <button id="emergency-btn">EMERGENCY HELP</button>
+        </div>
+
+        <div class="disclaimer">
+            <p>Disclaimer: This bot provides general legal information and is not a substitute for professional legal advice. Always consult with a qualified legal professional for specific legal matters.</p>
+        </div>
+    </div>
+
+    <div id="flowchart-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2 id="flowchart-title"></h2>
+            <div id="flowchart-container"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

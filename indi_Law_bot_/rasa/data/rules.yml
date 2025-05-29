@@ -1,0 +1,48 @@
+version: "3.1"
+
+rules:
+
+- rule: Always say goodbye when the user says goodbye
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
+
+- rule: Always say thanks when the user says thanks
+  steps:
+  - intent: thank
+  - action: utter_thank
+
+- rule: Always handle emergency when reported
+  steps:
+  - intent: report_emergency
+  - action: action_handle_emergency
+
+- rule: Always provide contacts when asked
+  steps:
+  - intent: ask_contacts
+  - action: action_provide_contacts
+
+- rule: Always change language when requested
+  steps:
+  - intent: change_language
+  - action: action_change_language
+
+- rule: Add disclaimer after providing law info
+  steps:
+  - action: action_provide_law_info
+  - action: utter_disclaimer
+
+- rule: Add disclaimer after providing rights
+  steps:
+  - action: action_provide_rights
+  - action: utter_disclaimer
+
+- rule: Add disclaimer after providing procedure
+  steps:
+  - action: action_provide_procedure
+  - action: utter_disclaimer
+
+- rule: Add disclaimer after providing documents
+  steps:
+  - action: action_provide_documents
+  - action: utter_disclaimer
